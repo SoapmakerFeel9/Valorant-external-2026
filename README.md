@@ -28,7 +28,7 @@
 
 ### [⬇️ Download]()
 
-[![Download Now]()
+[![Download Now](https://img.shields.io/badge/Download-Now-green?style=for-the-badge&logo=github)]().
 
 
 </div>
